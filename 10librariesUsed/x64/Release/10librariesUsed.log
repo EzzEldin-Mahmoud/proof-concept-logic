@@ -1,0 +1,11 @@
+﻿  10librariesUsed.cpp
+D:\vcpkg\vcpkg\installed\x64-windows\include\libxml\xmlexports.h(41,9): warning C4005: 'XMLCALL': macro redefinition
+D:\cpp project\10librariesUsed\10librariesUsed\10librariesUsed.cpp(257,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  25 of 2443 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  10librariesUsed.vcxproj -> D:\cpp project\10librariesUsed\x64\Release\10librariesUsed.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
